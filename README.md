@@ -78,3 +78,6 @@ Meet the builders behind Sightline for Consensus 2026:
 | **Abhishek Vishwakarma** | Blockchain Integration & Smart Contracts & Hardware APIs Integration|
 | **Rachit Tyagi** | Planning, Operations and Analsis |
 | **Parth Kanakiya** | UI & Backend |
+
+Loom Video - https://www.loom.com/share/79aafa2a3c9a4b3fa979d040909354c2
+Screen UI - https://stitch.withgoogle.com/projects/6497842501554690239
