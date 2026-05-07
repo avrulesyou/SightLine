@@ -75,6 +75,6 @@ Meet the builders behind Sightline for Consensus 2026:
 
 | Name | Role / Contribution |
 | :--- | :--- |
-| **Abhishek Vishwakarma** | Blockchain Integration & Smart Contracts |
-| **Rachit Tyagi** | Frontend Architecture & Mobile UI |
-| **Parth Kanakiya** | Hardware APIs Integration & Backend |
+| **Abhishek Vishwakarma** | Blockchain Integration & Smart Contracts & Hardware APIs Integration|
+| **Rachit Tyagi** | Planning, Operations and Analsis |
+| **Parth Kanakiya** | UI & Backend |
